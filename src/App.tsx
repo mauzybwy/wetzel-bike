@@ -8,7 +8,7 @@ function App() {
       style={{
         display: "flex",
         width: "100vw",
-        height: "100vh",
+        height: "100%",
         justifyContent: "center",
         alignItems: "center",
         flexDirection: "column",
